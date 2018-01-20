@@ -1,0 +1,14 @@
+﻿{
+  "name": "chat-bot-mvp",
+  "version": "0.0.0",
+  "description": "ChatBotMVP",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": "DiegoFerreiraLamarão"
+  }
+}
